@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>747514235525-9lomcl6g67ld426g5rtl8i7thmo8ilqc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.747514235525-9lomcl6g67ld426g5rtl8i7thmo8ilqc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB9CDIxvXlbqu5FHg_xiMbx63QPxLkYbIM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>747514235525</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rumblewayne.hp-thesis</string>
+	<key>PROJECT_ID</key>
+	<string>hp---thesis</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hp---thesis.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:747514235525:ios:280249cd023808bdf337ec</string>
+</dict>
+</plist>
